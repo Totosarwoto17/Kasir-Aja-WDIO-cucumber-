@@ -5,3 +5,5 @@ terdapat 2 feature yang dijalankan menggunana WDIO cucumber pada web Kasir Aja, 
 
 Link vidio upload internet
 https://youtu.be/yKeAjn5zWWo
+
+wdio appium https://github.com/Totosarwoto17/AT-wdio-Appium
