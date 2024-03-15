@@ -24,7 +24,6 @@ class LoginPage {
     async open() {
       await browser.url('https://kasiraja.ajikamaludin.id/');
     }
-  
     async login(username, password) {
       await this.userNameInput.setValue(username);
       await this.passwordInput.setValue(password);
